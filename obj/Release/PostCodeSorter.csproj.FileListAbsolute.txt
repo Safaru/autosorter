@@ -1,0 +1,8 @@
+C:\Users\admin\documents\visual studio 2017\Projects\PostCodeSorter\PostCodeSorter\bin\Release\PostCodeSorter.exe.config
+C:\Users\admin\documents\visual studio 2017\Projects\PostCodeSorter\PostCodeSorter\bin\Release\PostCodeSorter.exe
+C:\Users\admin\documents\visual studio 2017\Projects\PostCodeSorter\PostCodeSorter\bin\Release\PostCodeSorter.pdb
+C:\Users\admin\documents\visual studio 2017\Projects\PostCodeSorter\PostCodeSorter\bin\Release\Newtonsoft.Json.dll
+C:\Users\admin\documents\visual studio 2017\Projects\PostCodeSorter\PostCodeSorter\bin\Release\System.Xml.Linq.dll
+C:\Users\admin\documents\visual studio 2017\Projects\PostCodeSorter\PostCodeSorter\bin\Release\Newtonsoft.Json.xml
+C:\Users\admin\documents\visual studio 2017\Projects\PostCodeSorter\PostCodeSorter\obj\Release\PostCodeSorter.exe
+C:\Users\admin\documents\visual studio 2017\Projects\PostCodeSorter\PostCodeSorter\obj\Release\PostCodeSorter.pdb
